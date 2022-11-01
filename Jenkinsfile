@@ -2,7 +2,7 @@ Pipeline {
     
     agent {
         label "built-in"
-        CustomWorkspace "/mnt/2022Q1"
+        CustomWorkspace "/mnt/2022Q2"
     }
     stages {
         stage ("2022Q2") {
